@@ -1,0 +1,6 @@
+S	s1	ATGCGTAG	LN:i:8	SN:Z:chr1	SO:i:0	SR:i:0	dc:i:1
+S	s2	CGTAGCTG	LN:i:8	SN:Z:chr2	SO:i:8	SR:i:1	dc:i:0
+S	s3	TTAGGC	LN:i:6	SN:Z:chr3	SO:i:16	SR:i:2	dc:i:1
+L	s1	+	s2	+	8M	SR:i:0	L1:i:8	L2:i:8	dc:i:1
+L	s2	+	s3	+	6M	SR:i:1	L1:i:8	L2:i:6	dc:i:0
+L	s3	+	s1	+	6M	SR:i:2	L1:i:6	L2:i:8	dc:i:1
